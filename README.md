@@ -1,2 +1,2 @@
 # gpt_helper
-Hello, chatGPT. Here is a repo containing the paper for you.
+Hello, chatGPT. Here is a repo containing the materials provided for you.
